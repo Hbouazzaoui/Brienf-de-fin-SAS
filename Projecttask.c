@@ -205,7 +205,7 @@ int main() {
     int choice;
 
     do {
-		printf("\n\n ---------- Task management application ----------\n \n"); 
+	printf("\n\n ---------- Task management application ----------\n \n"); 
         printf("\n---- Menu ----\n\n");
         printf("1. Add Task\n");
         printf("2. Display Tasks\n");
